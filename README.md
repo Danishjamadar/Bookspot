@@ -1,7 +1,7 @@
 # Bookspot
 
 > **Abstract** : A bookspot is a software application designed to streamline the processes of cataloging, organizing, and managing a library's resources, such as books, journals, and multimedia materials. It helps librarians and users efficiently track items, handle check-ins and check-outs, search for materials, and manage library operations.
-digital library for a college department using the LAMP stack involves setting up a database to store book data and utilizing Node.js and Express.js to build APIs for backend functionality. The frontend, built with React, encompasses features like book browsing, search options, and user profiles. It also supports user authentication and admin privileges for content management. The library includes responsive design, real-time search. The result is a user-friendly digital library hosted on suitable platform.
+digital library for a college department using the LAMP stack involves setting up a database to store book data and utilizing PHP to build APIs for backend functionality. The frontend, built with Javascript, encompasses features like book browsing, search options, and user profiles. It also supports user authentication and admin privileges for content management. The library includes responsive design, real-time search. The result is a user-friendly digital library hosted on suitable platform.
 
 ### Project Members
 1. JAMADAR DANISH RASHID  [ Team Leader ] 
